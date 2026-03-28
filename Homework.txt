@@ -2,7 +2,7 @@
 
 2-) AI,ML,DL sıklıkla kullanılan terimler
 
-3-)AI,ML,DL nedir ? aralarındaki farklar nelerdir ?
+3-) AI,ML,DL nedir ? aralarındaki farklar nelerdir ?
 
 4-) AI,ML,DL güçlü ve zayıf yanları nelerdir ?
 
