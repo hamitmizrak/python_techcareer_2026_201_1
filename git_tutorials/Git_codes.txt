@@ -90,11 +90,11 @@ DİKKATTT: Branch öncesi git add, git commit yapınız
 24-) branch: mevcut branchleri listelendisn
 $ git branch
 
-25-)
-$ git branch
+25-)devops: adında branch oluştur
+$ git branch devops
 
 26-)
-$
+$ git switch devops
 
 27-)
 $
